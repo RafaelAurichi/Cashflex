@@ -1,7 +1,8 @@
 # Cashflex
 A hotsite for a corporate benefits company
 
-URL: http://cashflex-com-br.apache6.cloudsector.net/proposta-valor-1/                                                                                                          http://cashflex-com-br.apache6.cloudsector.net/proposta-valor-2/
+URL: http://cashflex-com-br.apache6.cloudsector.net/proposta-valor-1/ 
+     http://cashflex-com-br.apache6.cloudsector.net/proposta-valor-2/
 
 For this project I used Sass to style. It means that you´ll need install the NPM (Node Package Manager) through NodeJS and GULP through NodeJS too.
 
